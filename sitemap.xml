@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://yantao-w.github.io/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/egg-fried-rice.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/homemade-dumplings.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/chinese-noodles-recipes.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/chicken-corn-soup.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
