@@ -6,6 +6,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://yantao-w.github.io/articles/kung-pao-chicken.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/tomato-egg-stir-fry.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://yantao-w.github.io/articles/egg-fried-rice.html</loc>
     <lastmod>2026-10-01</lastmod>
     <priority>0.8</priority>
