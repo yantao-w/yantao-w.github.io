@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yantao-w.github.io/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/chinese-desserts-guide.html</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/vegan-chinese-cooking.html</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://yantao-w.github.io/articles/chinese-street-food-guide.html</loc>
     <lastmod>2026-10-06</lastmod>
@@ -11,9 +24,6 @@
     <loc>https://yantao-w.github.io/articles/soy-sauce-guide.html</loc>
     <lastmod>2026-10-06</lastmod>
     <priority>0.8</priority>
-  </url>
-    <lastmod>2026-10-01</lastmod>
-    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://yantao-w.github.io/articles/chinese-hot-pot-guide.html</loc>
