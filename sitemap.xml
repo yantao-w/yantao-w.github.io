@@ -2,8 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yantao-w.github.io/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/claypot-rice.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/jianbing-chinese-breakfast.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/chili-oil-chili-crisp.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yantao-w.github.io/articles/guo-bao-rou.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://yantao-w.github.io/articles/dan-dan-noodles.html</loc>
